@@ -1,6 +1,6 @@
 # 🎮 Simon Game
 
-A web-based version of the classic **Simon Game** — test your memory by repeating an increasingly difficult sequence of lights and sounds.
+A web-based version of the classic **Simon Game** to test your memory by repeating an increasingly difficult sequence of lights and sounds.
 
 ## 📸 Preview
 ![Simon Game Preview](Simon.png) 
@@ -9,7 +9,7 @@ A web-based version of the classic **Simon Game** — test your memory by repeat
 1. Press **A** to begin the game.
 2. Watch the sequence of lights and sounds.
 3. Repeat the sequence by clicking the buttons in the same order.
-4. The sequence grows longer each round — keep going until you make a mistake!
+4. The sequence grows longer each round. Keep going until you make a mistake!
 
 ## 💡 Features
 - Classic Simon game logic with growing sequences.
